@@ -60,3 +60,12 @@ Astérisque : `*`
 Dièse : `#`  
 Crochets : `[]`  
 Parenthèses : `()`
+
+---
+
+## Mettre une image : 
+```
+! [description de l'image] (lien de l'image)
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+```
